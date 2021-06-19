@@ -1,0 +1,381 @@
+@media  (max-width:576px) {
+    header .top img{
+        width: 100px;
+    }
+
+    header .top nav ul li a{
+        font-size: 5px;
+    }
+
+
+
+
+    .firstsection .title{
+        padding: 120px 0 100px;
+    }
+    .firstsection .title h1{
+        font-size: 12px;
+    }
+    .firstsection .title p{
+        font-size: 8px;
+    }
+
+
+
+
+    .first .allsection_1 .left h2{
+        font-size: 10px;
+    }
+    .first .allsection_1 .left p{
+       font-size: 4px;
+    }
+
+
+
+
+
+
+
+
+    .second .forline img{
+        width: 50px;
+    }
+    .second .forline{
+        padding-top: 0;
+    }
+    .second .fortitle_h2 h2{
+        padding-top: 15px;
+        font-size: 15px;
+    }
+    .second .forbtn. button{
+        padding: 7px;
+        font-size: 10px;
+    }
+    .second .forbtn button img{
+        width: 10px;
+    }
+
+
+
+
+
+    .third .forline_2 img{
+        width: 50px;
+    }
+    .third .center{
+        padding-bottom: 320px;
+    }
+
+    .third .center .left_1 .fortexth2_3 h3{
+        font-size: 15px;
+        padding-top: 20px;
+    }
+    .third .center .left_1 .fortexth2_3 p {
+        font-size: 7px;
+    }
+    .third .center .right_1 .fordisplay .forh4{
+        padding: 0  5px;
+    }
+    .third .center .right_1 .fordisplay .forh4 h4{
+        font-size: 10px;
+    }
+    .third .center .right_1 .fordisplay .forh4 h5{
+        font-size: 7px;
+    }
+    .third .center .right_1 .fordisplay .forh4 p{
+        font-size: 7px;
+    }
+
+
+
+
+
+    .fourth .fordisplay_2{
+        display: block;
+    }
+    .fourth .fordisplay_2 .maps .global img{
+        width: 250px;
+    }
+    .fourth .fordisplay_2 .maps .air img{
+        width: 100px;
+    }
+
+    .fourth .fordisplay_2 .maps .air{
+        position: absolute;
+        z-index: 1 ;
+        top: 177px;
+        left: 46px
+    }
+    .fourth .fordisplay_2 .maps .mapair{
+        position: absolute;
+        z-index: 2 ;
+        top: 17px ;
+        left: 36px;
+    }
+    .fourth .fordisplay_2 .maps .fura{
+        position: absolute;
+        z-index: 3 ;
+        top: 202px;
+        left: 102px;
+    }
+    .fourth .fordisplay_2 .forkontakt h2{
+        font-size: 15px;
+    }
+    .fourth .fordisplay_2 .forkontakt p{
+        font-size: 10px;
+    }
+    .fourth .fordisplay_2 .forkontakt a{
+        font-size: 10px;
+    }
+
+    .fourth .foricon img{
+        width: 20px;
+    }
+    .fourth .foricon{
+        padding-bottom: 70px;
+    }
+}
+
+
+
+
+
+
+
+
+
+/*@media  (max-width:768px) {*/
+/*    header .top img{*/
+/*        width: 150px;*/
+/*    }*/
+
+/*    header .top nav ul li a{*/
+/*        font-size: 10px;*/
+/*    }*/
+
+
+
+
+/*    .firstsection .title{*/
+/*        padding: 100px 0 100px;*/
+/*    }*/
+/*    .firstsection .title h1{*/
+/*        font-size: 12px;*/
+/*    }*/
+/*    .firstsection .title p{*/
+/*        font-size: 8px;*/
+/*    }*/
+
+
+
+/*    .first .allsection_1 .left h2{*/
+/*        font-size: 15px;*/
+/*    }*/
+/*    .first .allsection_1 .left p{*/
+/*        font-size: 8px;*/
+/*    }*/
+
+
+
+
+
+
+
+/*    .second .forline img{*/
+/*        width: 50px;*/
+/*    }*/
+/*    .second .forline{*/
+/*        padding-top: 0;*/
+/*    }*/
+/*    .second .fortitle_h2 h2{*/
+/*        padding-top: 15px;*/
+/*        font-size: 15px;*/
+/*    }*/
+/*    .second .forbtn button{*/
+/*        padding: 23px;*/
+/*        font-size: 10px;*/
+/*    }*/
+/*    .second .forbtn button img{*/
+/*        width: 20px;*/
+/*    }*/
+
+
+
+
+/*    .third .forline_2{*/
+/*        padding-top: 0;*/
+/*    }*/
+/*    .third .forline_2 img{*/
+/*        width: 50px;*/
+/*    }*/
+/*    .third .center{*/
+/*        padding-bottom: 200px;*/
+/*    }*/
+
+/*    .third .center .left_1 .fortexth2_3 h3{*/
+/*        font-size: 15px;*/
+/*        padding-top: 20px;*/
+/*    }*/
+/*    .third .center .left_1 .fortexth2_3 p {*/
+/*        font-size: 10px;*/
+/*    }*/
+/*    .third .center .right_1 .fordisplay .forh4{*/
+/*        padding: 0  5px;*/
+/*    }*/
+/*    .third .center .right_1 .fordisplay .forh4 h4{*/
+/*        font-size: 12px;*/
+/*    }*/
+/*    .third .center .right_1 .fordisplay .forh4 h5{*/
+/*        font-size: 10px;*/
+/*    }*/
+/*    .third .center .right_1 .fordisplay .forh4 p{*/
+/*        font-size: 10px;*/
+/*    }*/
+
+
+
+
+
+/*    .fourth .fordisplay_2 .maps .global img{*/
+/*        width: 251px;*/
+/*    }*/
+/*    .fourth .fordisplay_2 .maps .air img{*/
+/*        width: 101px;*/
+/*    }*/
+
+/*    .fourth .fordisplay_2 .maps .air{*/
+/*        position: absolute;*/
+/*        z-index: 1 ;*/
+/*        top: 177px;*/
+/*        left: 46px*/
+/*    }*/
+/*    .fourth .fordisplay_2 .maps .mapair{*/
+/*        position: absolute;*/
+/*        z-index: 2 ;*/
+/*        top: 17px ;*/
+/*        left: 36px;*/
+/*    }*/
+/*    .fourth .fordisplay_2 .maps .fura{*/
+/*        position: absolute;*/
+/*        z-index: 3 ;*/
+/*        top: 123px;*/
+/*        left: 195px;*/
+/*    }*/
+/*    .fourth .fordisplay_2 .forkontakt h2{*/
+/*        font-size: 15px;*/
+/*    }*/
+/*    .fourth .fordisplay_2 .forkontakt p{*/
+/*        font-size: 12px;*/
+/*    }*/
+/*    .fourth .fordisplay_2 .forkontakt a{*/
+/*        font-size: 12px;*/
+/*    }*/
+
+/*    .fourth .foricon img{*/
+/*        width: 30px;*/
+/*    }*/
+/*}*/
+
+
+
+
+
+/*@media  (max-width:992px){*/
+
+/*    .first .allsection_1 .left h2{*/
+/*        font-size: 30px;*/
+/*    }*/
+/*    .first .allsection_1 .left p{*/
+/*        font-size: 15px;*/
+/*    }*/
+/*}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,135 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    backdrop: black;
+}
+        /*HEADER*/
+
+
+.nav{
+    background: #000000;
+}
+header .box{
+    padding: 20px 0;
+}
+header  .top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header .top nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header  .top nav ul li{
+    list-style: none;
+    text-transform: uppercase;
+    padding-left: 20px;
+}
+header  nav ul li:first-child{
+     padding-left: 0;
+ }
+header .top nav ul li a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+
+}
+header .top nav ul li a:hover{
+    box-shadow:
+            1px 1px #ffffff,
+            2px 2px #ffffff,
+            3px 3px #ffffff,
+            4px 4px #ffffff,
+            5px 5px #ffffff,
+            6px 6px #ffffff,
+            7px 7px #ffffff;
+    -webkit-transform: translateX(-5px);
+    transform: translateX(-5px);
+
+}
+
+
+
+
+                /*END*/
+
+
+
+            /*SECTION*/
+
+.firstsection {
+    background: url("image/background.jpg") no-repeat;
+    background-size: cover;
+    /*background: url("image/Rectangle 2.png") no-repeat;*/
+
+}
+
+.firstsection .title{
+    text-align: center;
+    padding: 220px 0 314px;
+}
+.firstsection .title h1{
+    background: transparent;
+    color:#ffffff;;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+.firstsection .title p{
+    color: #ffffff;
+    font-size: 17px;
+}
+
+
+
+                    /*END*/
+section{
+    background: url("https://image.freepik.com/free-photo/simple-black-gradient-light-background_1962-1673.jpg") no-repeat;
+    background-size: cover;
+}
+
+                /*SECTION_1*/
+
+.first .allsection_1 .left{
+    z-index: 0;
+    top: 0;
+    left: 0;
+}
+.first .allsection_1 .left h2{
+    color: #ffffff;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.first .allsection_1 .left p{
+    color: #ffffff;
+    font-size: 18px;
+}
+
+
+                /*END*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

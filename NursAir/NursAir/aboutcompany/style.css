@@ -1,0 +1,124 @@
+.nav{
+    background: #000000;
+}
+header .box{
+    padding: 20px 0;
+}
+header  .top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header .top nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header  .top nav ul li{
+    list-style: none;
+    text-transform: uppercase;
+    padding-left: 20px;
+}
+header  nav ul li:first-child{
+    padding-left: 0;
+}
+header .top nav ul li a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+
+}
+header .top nav ul li a:hover{
+    box-shadow:
+            1px 1px #ffffff,
+            2px 2px #ffffff,
+            3px 3px #ffffff,
+            4px 4px #ffffff,
+            5px 5px #ffffff,
+            6px 6px #ffffff,
+            7px 7px #ffffff;
+    -webkit-transform: translateX(-5px);
+    transform: translateX(-5px);
+
+}
+
+
+
+
+section{
+    background: url("https://image.freepik.com/free-photo/simple-black-gradient-light-background_1962-1673.jpg") no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+.third .forline_2{
+    padding-top: 60px;
+}
+.third .center{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.third .center{
+    padding-bottom: 224px;
+}
+.third .center .left_1{
+    width: 50%;
+}
+.third .center .right_1{
+    width: 50%;
+}
+
+.third .center .left_1 .fortexth2_3 h3{
+    color: #ffffff;
+    font-size: 35px;
+    text-transform: uppercase;
+    padding-top: 50px;
+}
+.third .center .left_1 .fortexth2_3 p {
+    color: #ffffff;
+    padding-top: 45px;
+    font-size: 17px;
+}
+.third .center .right_1 .fordisplay{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.third .center .right_1 .fordisplay .forh4{
+    text-align: center;
+    border: #C8A35F 1px dashed;
+    padding: 1px 18px;
+}
+.third .center .right_1 .fordisplay .forh4 h4{
+    color: #ffffff;
+    font-size: 30px;
+}
+.third .center .right_1 .fordisplay .forh4 h5{
+    color: #ffffff;
+    font-size: 17px;
+}
+.third .center .right_1 .fordisplay .forh4 p{
+    color: #ffffff;
+    font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
